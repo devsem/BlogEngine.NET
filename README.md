@@ -1,5 +1,3 @@
-This repository provides latest source code for BlogEngine.NET project and since Codeplex is shutting down, we don't release any version on Codeplex anymore.
-
 <br>
 <br>
 
